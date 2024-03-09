@@ -1,4 +1,4 @@
-Welcome to my inaugural GitHub project! I created this during my 4th semester of bachelor's studies, this project simplifies operations for automobile service stations. The inspiration to make this project comes from my father who works in the automobile industry.
+Welcome to my inaugural GitHub project! This project simplifies operations for automobile service stations. The inspiration to make this project comes from my father who works in the automobile industry.
 Key Features of this project are
 Customer Data Management,
 Receipt Generation,
